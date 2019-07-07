@@ -1,0 +1,2 @@
+# Machine_Learning_Project
+The premise for this project is to analyze stock data from the S&P500 over the past few years and compare it to cryptocurrency data from the same time period. Machine learning algorithms will generate future price predictions based on previous trading data. The goal of this project is to predict how the future stock or crypto prices will change, analyze correlations in the data, and see which asset may be the better investment.
